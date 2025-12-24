@@ -370,7 +370,7 @@ const TrueHireLanding = () => {
           <div className="shadow-2xl max-w-6xl mx-auto border-2 border-blue-100">
             <div className="to-black rounded-2xl text-center flex items-center justify-center">
               <img
-                src="https://res.cloudinary.com/dpcgk2sev/image/upload/v1766537902/truehire_logo_lgwruu.jpg"
+                src="https://res.cloudinary.com/dpcgk2sev/image/upload/v1766608204/truehire_logo_u5c805.jpg"
                 alt=""
                 style={{ borderRadius: "1rem" }}
                 className="w-full max-h-96"
